@@ -1,7 +1,6 @@
 # **Event-specific Document Ranking through Multi-stage Query Expansion**
 
-Welcome to the GitHub repository for the paper titled 'Event-specific Document Ranking through Multi-stage Query Expansion using an Event Knowledge Graph'. This repository contains the implementation code for the MusQuE model and the created dataset Ms-Marco-Event. Please note that author names and specific details cannot be disclosed due to the anonymous submission.
-
+Welcome to the GitHub repository for the paper titled 'Event-specific Document Ranking through Multi-stage Query Expansion using an Event Knowledge Graph'. This repository contains the implementation code for the MusQuE model and the created dataset Ms-Marco-Event. 
 
 ## **Dataset: Ms-Marco-Event**
  
