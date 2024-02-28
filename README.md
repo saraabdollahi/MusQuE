@@ -9,3 +9,7 @@ Ms-Marco-Event dataset is created based on the MS-MARCO dataset and the EventKG 
 ## **MusQuE**
 
 MusQuE is an approach for event-specific document ranking through Multi-stage Query Expansion. We provide the implementation of MusQuE for training and evaluation.
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
+
